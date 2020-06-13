@@ -20,8 +20,8 @@ router.post('/mailer',async(req,res)=>{
          port:465,
          secure:true, //true or 465 only, fasle for other ports
          auth:{
-             user:'darshprajapati.krb@gmail.com', // generated ethernal user
-             pass:'darshsaloni16' // generated ethernal password
+             user:'***************', // generated ethernal user
+             pass:'*******' // generated ethernal password
          }
         });
 
